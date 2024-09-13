@@ -1,5 +1,6 @@
 class Main {
 
 public static void main(String[] args) {
-    FizzBuzz.doFizzBuzz;
-}
+    new FizzBuzz.doFizzBuzz(false, true);
+
+}}
